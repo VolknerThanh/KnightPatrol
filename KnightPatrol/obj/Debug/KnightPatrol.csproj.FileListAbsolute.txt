@@ -1,0 +1,6 @@
+D:\Programming\Console C#\KnightPatrol\KnightPatrol\bin\Debug\KnightPatrol.exe.config
+D:\Programming\Console C#\KnightPatrol\KnightPatrol\obj\Debug\KnightPatrol.csprojResolveAssemblyReference.cache
+D:\Programming\Console C#\KnightPatrol\KnightPatrol\bin\Debug\KnightPatrol.exe
+D:\Programming\Console C#\KnightPatrol\KnightPatrol\bin\Debug\KnightPatrol.pdb
+D:\Programming\Console C#\KnightPatrol\KnightPatrol\obj\Debug\KnightPatrol.exe
+D:\Programming\Console C#\KnightPatrol\KnightPatrol\obj\Debug\KnightPatrol.pdb
